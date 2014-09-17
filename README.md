@@ -8,3 +8,9 @@ Welcome to test 1, another user will fork it -> update or add some files-> commi
 creates a pull request on master repo 
 
 
+user 2 , i did fork the project, and updating this file 
+
+commiting to forked repo
+
+creating pull request 
+
